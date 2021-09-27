@@ -1,9 +1,17 @@
+
 - 👋 Hi, I’m @abdurrahmanakaid
 - 👀 I’m interested in Full Stack Development...
 - 🌱 I’m currently learning MERN Stack Development...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akaid.dev@gmail.com
 
+#### Connect With Me coffee: &emsp;
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Abdur.rahman.akaid)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahmanakaid)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abdur.rahman.akaid)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdur_akaid)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdur.rahman200301@gmail.com)
 
 #### Programming & Technologies I Code with
 
