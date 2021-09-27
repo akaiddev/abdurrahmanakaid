@@ -15,7 +15,7 @@
 🌱 &emsp; I’m currently learning MERN Stack Development...<br/>
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-:e-mail: &emsp;How to reach me: abdur.rahman200301@gmail.com<br/>
+:e-mail: &emsp;How to reach me: akaid@gmail.com<br/>
 
 #### Programming & Technologies I Code with
 
